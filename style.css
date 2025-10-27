@@ -1,5 +1,16 @@
 body{
-    background-color: rgb(185, 6, 6);
-    color: rgb(206, 206, 255);
+    background-color: rgb(143, 39, 39);
+    color: rgb(255, 224, 224);
+    font-family: "Playfair Display", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px;
+    margin: 0;
+}
+ 
+button{
+    background-color: rgb(226, 142, 142);
+    color: rgb(179, 30, 50);
     font-family: "Playfair Display", serif;
 }
